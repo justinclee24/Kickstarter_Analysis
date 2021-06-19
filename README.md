@@ -45,5 +45,3 @@ One challenge that arose was the need to accept that when taking a look at the r
 - What are some other possible tables and/or graphs that we could create?
 
   - Some other tables that could be created are ones based on the musical and spaces subcategories under the theater parent category to cross-examine them with the play subcategory and see if this is actually what Louise should be focusing on. A graph comparing different countries’ theater campaigns would also be useful as Louise spoke about interest in the Great Britain. Also showing the success and failure based on average donation would seem to be a useful graph. 
-![image](https://user-images.githubusercontent.com/85330159/122649046-37611a00-d0e9-11eb-86d6-bbdba2c3ce3d.png)
-
