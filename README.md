@@ -32,18 +32,18 @@ One challenge that arose was the need to accept that when taking a look at the r
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
--- As discussed in the analysis above, successful theater campaigns peaked in May, so this would be the best time to start one. While June is rather high as well, as months pass on, there is a drop in overall campaign launches, except for a spike in October. Therefore, while you should start your campaign in May, you should not keep the duration past 2-3 months. 
+  - As discussed in the analysis above, successful theater campaigns peaked in May, so this would be the best time to start one. While June is rather high as well, as months pass on, there is a drop in overall campaign launches, except for a spike in October. Therefore, while you should start your campaign in May, you should not keep the duration past 2-3 months. 
 
 - What can you conclude about the Outcomes based on Goals?
 
--- Based on the data, except for a pocket between 35000 and 45000, the higher your goal gets, the less likely you are to have a successful campaign. The sweet spot seems to be right in between 1000 and 5000. In this range, there were 388 successful campaigns.
+  - Based on the data, except for a pocket between 35000 and 45000, the higher your goal gets, the less likely you are to have a successful campaign. The sweet spot seems to be right in between 1000 and 5000. In this range, there were 388 successful campaigns.
 
 - What are some limitations of this dataset?
 
--- The dataset did show country of origin, but it would have been nice to show where in the country it was based to gain more information on say if you wanted to know where in the US to have your play. Also, more information on the demographics on the donors of campaigns, if possible, would have been nice to know where to target your marketing efforts if there is enough in the budget for that. Finally, another column of information that could have been relevant was how much was raised in the first 24 hours from the launch date. This piece of information is very indicative of whether the campaign will be a success of failure later down the line. 
+  - The dataset did show country of origin, but it would have been nice to show where in the country it was based to gain more information on say if you wanted to know where in the US to have your play. Also, more information on the demographics on the donors of campaigns, if possible, would have been nice to know where to target your marketing efforts if there is enough in the budget for that. Finally, another column of information that could have been relevant was how much was raised in the first 24 hours from the launch date. This piece of information is very indicative of whether the campaign will be a success of failure later down the line. 
 
 - What are some other possible tables and/or graphs that we could create?
 
--- Some other tables that could be created are ones based on the musical and spaces subcategories under the theater parent category to cross-examine them with the play subcategory and see if this is actually what Louise should be focusing on. A graph comparing different countries’ theater campaigns would also be useful as Louise spoke about interest in the Great Britain. Also showing the success and failure based on average donation would seem to be a useful graph. 
+  - Some other tables that could be created are ones based on the musical and spaces subcategories under the theater parent category to cross-examine them with the play subcategory and see if this is actually what Louise should be focusing on. A graph comparing different countries’ theater campaigns would also be useful as Louise spoke about interest in the Great Britain. Also showing the success and failure based on average donation would seem to be a useful graph. 
 ![image](https://user-images.githubusercontent.com/85330159/122649046-37611a00-d0e9-11eb-86d6-bbdba2c3ce3d.png)
 
